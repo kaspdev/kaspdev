@@ -40,7 +40,7 @@
 <h3> 🤝🏻 &nbsp;Связаться со мной </h3>
 
 <p align="center">
-<a href="https://kaspdev.ru/"><img alt="Website" src="https://img.shields.io/badge/Вебсайт-www.alexeylesin.me-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://vk.com/kaspdev/"><img alt="VKontakte" src="https://img.shields.io/badge/ВКонтакте-securityerror-blue?style=flat-square&logo=vk"></a>
-<a href="mailto:kaspdev@inbox.ru"><img alt="Email" src="https://img.shields.io/badge/Email-me@alexeylesin.ru-blue?style=flat-square&logo=gmail"></a>
+<a href="https://kaspdev.ru/"><img alt="Website" src="https://img.shields.io/badge/Вебсайт-kaspdev.ru-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://vk.com/kaspdev/"><img alt="VKontakte" src="https://img.shields.io/badge/ВКонтакте-kaspdev-blue?style=flat-square&logo=vk"></a>
+<a href="mailto:kaspdev@inbox.ru"><img alt="Email" src="https://img.shields.io/badge/Email-kaspdev@inbox.ru-blue?style=flat-square&logo=gmail"></a>
 </p>
