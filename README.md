@@ -1,5 +1,8 @@
 <h2> Добро пожаловать на мой профиль! </h2>
 
+[![𝙼𝚢 𝚜𝚝𝚊𝚝𝚜](https://github-readme-stats.vercel.app/api?username=kaspdev&show_icons=true&theme=radical)](https://github.com/kaspdev)
+[![𝙼𝚢 𝚜𝚝𝚊𝚝𝚜Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ferius057&layout=compact&theme=radical)](https://github.com/kaspdev)
+
 <h3> 👨 &nbsp; Немного про себя </h3>
 
 - 🚀 &nbsp; В данный момент занимаюсь разработкой форума MoonTeam.
