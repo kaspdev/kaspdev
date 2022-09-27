@@ -1,7 +1,14 @@
 <h2> Добро пожаловать на мой профиль! </h2>
 
-[![𝙼𝚢 𝚜𝚝𝚊𝚝𝚜](https://github-readme-stats.vercel.app/api?username=kaspdev&show_icons=true&theme=radical)](https://github.com/kaspdev)
-[![𝙼𝚢 𝚜𝚝𝚊𝚝𝚜Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ferius057&layout=compact&theme=radical)](https://github.com/kaspdev)
+<hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mooncodezz&show_icons=true&locale=en&layout=compact" alt="mooncodezz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mooncodezz&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+
+<hr>
+
 
 <p align="center">
   <em>
