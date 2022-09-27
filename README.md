@@ -1,11 +1,11 @@
 <h2> Добро пожаловать на мой профиль! </h2>
 
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub статистика</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<hr>
+<p align="center">
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub статистика</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<hr> 
+ 
 <div align="center">
-  
-</div>
 
 <a href="https://github.com/kaspdev/github-stats#gh-dark-mode-only">
 <img src="https://github.com/kaspdev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
@@ -16,8 +16,7 @@
 <img src="https://github.com/kaspdev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </a>
 
-</div>
-<hr>  
+</div> 
 
 <p align="center">
   <em>
