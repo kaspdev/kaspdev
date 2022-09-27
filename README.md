@@ -1,9 +1,11 @@
 <h2> Добро пожаловать на мой профиль! </h2>
 
-  <hr>
+<hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub статистика</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 <div align="center">
+  
+<hr>    
 </div>
 
 <a href="https://github.com/kaspdev/github-stats#gh-dark-mode-only">
